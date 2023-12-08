@@ -1,6 +1,6 @@
 # Hi there ! I am Rakiba 👋
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Rakiba Akter, Web Developer!](https://raw.githubusercontent.com/rakibaakter/rakibaakter/main/assets/cover.png "Rakiba Akter")
 
 # Current Stats
 
