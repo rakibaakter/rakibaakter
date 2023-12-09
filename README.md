@@ -17,6 +17,21 @@
   
 <img src="https://raw.githubusercontent.com/rakibaakter/rakibaakter/main/assets/Rainbow.gif" width="100%">
 
+# Technology I Know
+
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakibaakter)](https://git.io/streak-stats)
