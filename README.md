@@ -28,15 +28,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data%20Mining-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) -->
 
 # Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakibaakter)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibaakter&show_icons=true)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibaakter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -45,4 +48,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
