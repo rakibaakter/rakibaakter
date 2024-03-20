@@ -35,9 +35,9 @@
 # Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakibaakter)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibaakter&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibaakter&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibaakter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibaakter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- Here are some ideas to get you started:
 
